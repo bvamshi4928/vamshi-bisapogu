@@ -1,7 +1,7 @@
 # vamshi-bisapogu
 
 # 💫 About Me:
-👋  Hey there! I'm Vamshi Bisapogu<br>🌟  My Portfolio : Explore my work & projects : link<br><br>💡  Software Developer | Full Stack Developer | Problem Solving Enthusiastic<br>🎓  I'm currently pursuing my Master of Science in Computer Science at Arizona State University.<br>🌱  I'm diving deep into Cloud Architecture.<br>💬  Let's chat about latest technology and possible collaboration, collaboration opportunities!
+  Hey there! I'm Vamshi Bisapogu<br>🌟  My Portfolio : Explore my work & projects : link<br><br>💡  Software Developer | Full Stack Developer | Problem Solving Enthusiastic<br>🎓  I'm a graduate of Master of Science in Computer Science at Arizona State University.<br>🌱  I'm diving deep into Cloud Architecture.<br>💬  Let's chat about latest technology and possible collaboration, collaboration opportunities!
 
 
 ## 🌐 Socials:
